@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SlabShop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SlabShop_jar</output-path>
+    <root id="archive" name="SlabShop.jar">
+      <element id="module-output" name="SlabShop" />
+    </root>
+  </artifact>
+</component>

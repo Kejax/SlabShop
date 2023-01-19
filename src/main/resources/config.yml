@@ -1,0 +1,15 @@
+# The main config for most settings
+
+# DO NOT CHANGE!
+config:
+  version: 0.1
+
+# Settings for creation of a shop
+
+# Number of shops a player is allowed to have (-1 to disable)
+max_shops: -1
+# Amount the user has to pay at shop creation (0 to disable)
+shop_price: 0
+# How shops should behave on explosions:
+# chest - destroy the shop and drop all items
+# obsidian - undestroyable by explosions

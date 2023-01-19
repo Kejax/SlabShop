@@ -1,0 +1,12 @@
+
+name: SlabShop
+description: "A free GUI Shop Plugin using slabs"
+
+main: net.kejax.slabshop.SlabShop
+
+version: "ALPHA-0.3"
+
+author: Kejax
+api-version: 1.19
+
+depend: ["Vault"]
