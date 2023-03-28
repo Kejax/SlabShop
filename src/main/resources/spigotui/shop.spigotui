@@ -1,0 +1,27 @@
+{
+    "version": "1",
+    "type": "spigotui/shop",
+    "creator": "Kejax",
+    "description": "This file contains the default shop for SlabShop",
+
+    "inventory": {
+        "type": "minecraft:chest",
+        "size": "54",
+        "contents": {
+                "slot.0": {
+                    "item": "minecraft:diamond",
+                    "name": "Buy this!",
+                    "lore": [
+                        "Lore Line 1",
+                        "Lore Line 2",
+                        "Lore Line 3"
+                    ]
+                    "attributes": {
+                        "name": "key"
+                    },
+                    "action": "Hello World"
+                }
+            }
+    }
+}
+TODO Finish the specs for SpigotUI V1

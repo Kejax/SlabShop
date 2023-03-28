@@ -33,6 +33,8 @@ public class ShopGuiInventory implements InventoryGui {
 
     public ShopGuiInventory(PlayerShop shop, Player player) {
 
+        // TODO Update ShopInventory to new UI Design
+
         // TODO Make shop inventory loader
 
         this.shop = shop;
